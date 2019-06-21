@@ -1,0 +1,7 @@
+$ apt update && apt upgrade
+$ apt install python2
+$ apt install php
+$ apt install git
+$ git clone https://github.com/joss24242/SpamSms
+$ cd SpamSms
+$ python2 mantan.py

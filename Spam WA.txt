@@ -1,0 +1,9 @@
+$ apt update -y
+$ apt upgrade -y
+$ apt install git
+$ apt install php
+$ git clone https://github.com/siputra12/prank
+$ cd prank
+$ ls
+$ php call.php
+$ php wa.php

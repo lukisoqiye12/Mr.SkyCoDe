@@ -1,0 +1,15 @@
+    $ apt update && apt upgrade
+
+    $ apt install git
+
+    $ apt install clang
+
+    $ git clone https://github.com/zanyarjamal/xerxes
+
+    $ cd xerxes
+
+    $ clang xerxes.c -o xerxes
+
+    $ chmod 777 xerxes
+
+    $ ./xerxes nama_website 80

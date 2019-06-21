@@ -1,0 +1,19 @@
+    $ apt update && apt upgrade -y 
+
+    $ apt install python2 -y 
+
+    $ pkg install nano python2 cowsay git 
+
+    $ apt install php -y 
+
+    $ apt install python2-dev  
+
+    $ pip2 install mechanize 
+
+    $ apt install git
+
+    $ git clone https://github.com/DarkCurut08/DarkCurut08
+
+    $ cd DarkCurut08
+
+    $ sh Moreno77.sh
